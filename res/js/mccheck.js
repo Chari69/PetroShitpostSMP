@@ -55,5 +55,5 @@ var rq = "https://mcapi.us/server/status",
 for (i in classes) allclasses += " " + classes[i];
 
 $(document).ready(function () {
-    q("9b9t.com", display);
+    q("agregar ip", display);
 });
