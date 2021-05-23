@@ -1,0 +1,15 @@
+.main {
+  align-items: center;
+  text-align: center;
+  align-content: center;
+  height: 200px;
+}
+
+body {
+  background: linear-gradient(
+      rgba(255, 255, 255, 0.5),
+      rgba(255, 255, 255, 0.5)
+    ),
+    url("../img/map-bg.png") no-repeat;
+  background-size: 100%;
+}
