@@ -6,6 +6,8 @@
 
 Repositorio oficial para la pagina oficial y el archivo de los mapas del servidor de minecraft Petro SMP.
 
+El mapa ha sido creado con [Overviewer](https://overviewer.org/).
+
 ## To-Do
 
 - Hacer que se pueda ver el estado del servidor de minecraft en la pagina.
